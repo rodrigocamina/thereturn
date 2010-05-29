@@ -1,9 +1,6 @@
 #summary Responsáveis das etapas do projeto.
 <wiki:toc max_depth="3" />
 ----
-== _Project Roles_ ==
-
-----
 === _Game Design_ ===
 
 Guilherme Brolese Garcia
