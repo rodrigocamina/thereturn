@@ -2,6 +2,7 @@
 
 = Documents =
 ----
+  * [Project_Patterns Project Patterns]
   * [Game_Overview_Document Game Overview Document]
   * [Game_Design_Document Game Design Document]
   * [Content_Design_Document Content Design Document]
