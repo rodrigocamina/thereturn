@@ -37,9 +37,6 @@
 
 ==== Guilherme Brolese Garcia ====
 ==== Rodrigo Martins Camiña ====
-----
-=== _Network Programming_ ===
-
 ==== Luiz Paulo Schlischting ====
 ----
 === _Database Administration_ ===
