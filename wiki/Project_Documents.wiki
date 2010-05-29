@@ -2,6 +2,8 @@
 
 = Documents =
 ----
+    [Project_Roles Project Roles]
+
     [Project_Patterns Project Patterns]
 
     [Game_Overview_Document Game Overview Document]
