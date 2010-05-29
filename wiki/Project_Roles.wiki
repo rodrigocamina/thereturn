@@ -6,10 +6,13 @@
 ----
 === _Game Design_ ===
 
-==== Guilherme Brolese Garcia ====
-==== Luiz Paulo Schlischting ====
-==== Rafael Trilha de Barcelos ====
-==== Rodrigo Martins Camiña ====
+    Guilherme Brolese Garcia
+
+    Luiz Paulo Schlischting
+
+    Rafael Trilha de Barcelos
+
+    Rodrigo Martins Camiña
 ----
 === _Content Design_ ===
 
