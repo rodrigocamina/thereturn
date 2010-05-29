@@ -1,4 +1,4 @@
-#summary All project documents.
+#summary Todos os documentos do projeto estão aqui.
 
 = Documents =
 ----
