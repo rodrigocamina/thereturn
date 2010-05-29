@@ -1,0 +1,3 @@
+#summary Show in details all patterns used in the project.
+
+In construction.
