@@ -16,9 +16,9 @@ Rodrigo Martins Camiña
 ----
 == _Content Design_ ==
 
-Rafael Trilha de Barcelos
-
 Guilherme Brolese Garcia
+
+Rafael Trilha de Barcelos
 ----
 == _Level Design_ ==
 
@@ -39,9 +39,9 @@ Antônio Roberto Morossino Jr.
 
 Guilherme Brolese Garcia
 
-Rodrigo Martins Camiña
-
 Luiz Paulo Schlischting
+
+Rodrigo Martins Camiña
 ----
 == _Database Administration_ ==
 
