@@ -26,7 +26,7 @@ Rafael Trilha de Barcelos
 
 Rodrigo Martins Camiña
 ----
-== _Sound Design_ ==
+== _Audio Design_ ==
 
 Antônio Roberto Morossino Jr.
 ----
