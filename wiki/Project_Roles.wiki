@@ -1,7 +1,10 @@
 #summary Responsáveis das etapas do projeto.
-<wiki:toc max_depth="1" />
+<wiki:toc max_depth="2" />
 ----
-= _Game Design_ =
+----
+= Design =
+----
+== _Game Design_ ==
 
 Guilherme Brolese Garcia
 
@@ -11,31 +14,28 @@ Rafael Trilha de Barcelos
 
 Rodrigo Martins Camiña
 ----
-= _Content Design_ =
+== _Content Design_ ==
 
 Rafael Trilha de Barcelos
 
 Guilherme Brolese Garcia
 ----
-= _Level Design_ =
+== _Level Design_ ==
 
 Rafael Trilha de Barcelos
 
 Rodrigo Martins Camiña
 ----
-= _Sound Design_ =
+== _Sound Design_ ==
 
 Antônio Roberto Morossino Jr.
 ----
-= _Concept Art_ =
+== _Interface_ ==
 ----
-= _3D Modeling_ =
-
-Nelson Azambuja Jr.
 ----
-= _Interface_ =
+= Programming =
 ----
-= _Software Development_ =
+== _Software Development_ ==
 
 Guilherme Brolese Garcia
 
@@ -43,11 +43,24 @@ Rodrigo Martins Camiña
 
 Luiz Paulo Schlischting
 ----
-= _Database Administration_ =
+== _Database Administration_ ==
 
 Luiz Paulo Schlischting
 ----
-= _Production_ =
+----
+= Art =
+----
+== _Concept Art_ ==
+----
+== _3D Modeling_ ==
+
+Nelson Azambuja Jr.
+----
+----
+= Production =
+----
+== _Production_ ==
 
 Rodrigo Martins Camiña
+----
 ----
