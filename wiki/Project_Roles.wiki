@@ -1,5 +1,6 @@
 #summary Responsáveis das etapas do projeto.
 <wiki:toc max_depth="2" />
+  
 ----
 ----
 = Creative Department =
@@ -37,6 +38,8 @@ Antônio Roberto Morossino Jr.
 == _3D Modeling (3D)_ ==
 
 Nelson Azambuja Jr.
+  
+  
 ----
 ----
 = Development Department =
@@ -60,6 +63,8 @@ Luiz Paulo Schlischting
 == _IT (IT)_ ==
 
 Luiz Paulo Schlischting
+  
+  
 ----
 ----
 = Production =
@@ -71,6 +76,8 @@ Rodrigo Martins Camiña
 == _Quality Assurance (QA)_ ==
 ----
 == _Support (SP)_ ==
+  
+  
 ----
 ----
 = Administration =
@@ -84,5 +91,4 @@ Rodrigo Martins Camiña
 == _Marketing (MK)_ ==
 ----
 == _Public Relations (PR)_ ==
-----
 ----
