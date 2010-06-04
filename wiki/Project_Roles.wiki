@@ -2,9 +2,9 @@
 <wiki:toc max_depth="2" />
 ----
 ----
-= Design =
+= Creative Department =
 ----
-== _Game Design_ ==
+== _Game Design (GD)_ ==
 
 Guilherme Brolese Garcia
 
@@ -14,53 +14,75 @@ Rafael Trilha de Barcelos
 
 Rodrigo Martins Camiña
 ----
-== _Content Design_ ==
+== _Content Design (CD)_ ==
 
 Guilherme Brolese Garcia
 
 Rafael Trilha de Barcelos
 ----
-== _Level Design_ ==
+== _Level Design (LD)_ ==
 
 Rafael Trilha de Barcelos
 
 Rodrigo Martins Camiña
 ----
-== _Audio Design_ ==
+== _Audio Design (AD)_ ==
 
 Antônio Roberto Morossino Jr.
 ----
-== _Interface_ ==
+== _Interface Design (ID)_ ==
 ----
+== _Concept Art (CA)_ ==
 ----
-= Programming =
-----
-== _Software Development_ ==
-
-Guilherme Brolese Garcia
-
-Luiz Paulo Schlischting
-
-Rodrigo Martins Camiña
-----
-== _Database Administration_ ==
-
-Luiz Paulo Schlischting
-----
-----
-= Art =
-----
-== _Concept Art_ ==
-----
-== _3D Modeling_ ==
+== _3D Modeling (3D)_ ==
 
 Nelson Azambuja Jr.
 ----
 ----
-= Production =
+= Development Department =
 ----
-== _Production_ ==
+== _Software Development (SD)_ ==
+
+Guilherme Brolese Garcia
+
+Luiz Paulo Schlischting
 
 Rodrigo Martins Camiña
+----
+== _Tools Development (TD)_ ==
+----
+== _Research and Development (RD)_ ==
+----
+== _Database Administration (DB)_ ==
+
+Luiz Paulo Schlischting
+----
+== _IT (IT)_ ==
+
+Luiz Paulo Schlischting
+----
+----
+= Production =
+----
+== _Production (PN)_ ==
+
+Rodrigo Martins Camiña
+----
+== _Quality Assurance (QA)_ ==
+----
+== _Support (SP)_ ==
+----
+----
+= Administration =
+----
+== _Personnel (PS)_ ==
+----
+== _Financial (FN)_ ==
+----
+== _Human Resources (HR)_ ==
+----
+== _Marketing (MK)_ ==
+----
+== _Public Relations (PR)_ ==
 ----
 ----
