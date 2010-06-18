@@ -6,30 +6,12 @@
 = Creative Department =
 ----
 == _Game Design (GD)_ == 
-
-Guilherme Brolese Garcia
-
-Luiz Paulo Schlischting
-
-Rafael Trilha de Barcelos
-
-Rodrigo Martins Camiña
   
 == _Content Design (CD)_ ==
-
-Guilherme Brolese Garcia
-
-Rafael Trilha de Barcelos
   
 == _Level Design (LD)_ ==
-
-Rafael Trilha de Barcelos
-
-Rodrigo Martins Camiña
   
 == _Audio Design (AD)_ ==
-
-Antônio Roberto Morossino Jr.
   
 == _Interface Design (ID)_ ==
   
@@ -37,37 +19,25 @@ Antônio Roberto Morossino Jr.
   
 == _3D Modeling (3D)_ ==
 
-Nelson Azambuja Jr.
 ----
 ----
 = Development Department =
 ----
 == _Software Development (SD)_ ==
 
-Guilherme Brolese Garcia
-
-Luiz Paulo Schlischting
-
-Rodrigo Martins Camiña
-  
 == _Tools Development (TD)_ ==
   
 == _Research and Development (RD)_ ==
   
 == _Database Administration (DB)_ ==
-
-Luiz Paulo Schlischting
   
 == _IT (IT)_ ==
 
-Luiz Paulo Schlischting
 ----
 ----
 = Production Department =
 ----
 == _Production (PN)_ ==
-
-Rodrigo Martins Camiña
   
 == _Quality Assurance (QA)_ ==
   
