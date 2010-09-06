@@ -1,3 +1,158 @@
 #summary Documento de Design do Jogo(GDD).
 
 Em construção.
+
+----
+
+= Raças =
+
+=== Resumo: ===
+
+Coloque aqui textos descritivos sobre as raças presentes no jogo.
+Cada ficha de Raça deve ter sua descrição física, psicológica, religiosa, governamental e a descrição de seu planeta natal.
+
+----
+
+== Raça: Terae ==
+
+=== Descrição Física: ===
+
+    Possuem altura adulta entre 2,1 e 2,5metros, corpos musculoso com pernas e braços grossos e tom de pele marrom escuro. Seus cabelos e pelos variam entre cores verdes e amarelas, são grossos e lembram folhas de pequenos arbustos. Seus corpos tem em sua composição  elementos metálicos como ferro e cobre, que os torna multo resistentes e pesados.
+
+=== Descrição Psicológica: ===
+
+    Sua cultura impõe grande valor a honestidade, honra e força. Possuem um temperamento calmo e pouco agressivo.
+
+=== Religiosa: ===
+
+    Entre as religiões existentes em sua população, duas predominam, Seita de Akarl e Vigilantes de Orakres.
+
+   *Seita de Akarl:* religião que impõe a crença de um reino divino onde somente os mais honrosos guerreiros se juntam após a morte.
+   *Vigilantes de Orakres:* religião que impõe a crença de todos virem da terra e voltarem para terra em um ciclo sem fim.
+
+=== Governo: ===
+
+    São organizados em tribos nômades, regidas por um Líder e até três conselheiros, sendo essas posições ocupadas pelos mais velhos das quatro famílias de maior influência da tribo. Possuem duas castas, a de trabalhadores e a de guerreiro. É comum a troca de membros entre tribos como forma de alianças.
+
+=== Planeta: ===
+
+    Muito similar com a terra, possue uma gravidade duas vezes maior, tem 37% de sua superfície coberta de água. Prevalece terrenos de planícies e florestas baixas. Tem um grau elevado de umidade e temperatura, que cria um ciclo da água extremamente rápido, fazendo haver mais dias de chuva que de sol. Sua flora consiste principalmente de plantas pequenas e árvores baixas e sua fauna possui uma imensa variedade de herbívoros, de porte pequeno e médio e carnívoros de tamanhos colossais.
+
+
+== Raça: Flamekin == (nome provisório)
+
+=== Descrição Física: ===
+
+    São raros os que tornam-se anciãos, dada a vida frenética que levam. Tem altura mediana (1,70m altura média de um adulto), Calvos em sua grande maioria, devido ao forte calor de seu planeta. As mulheres possuem cabelos curtos e são raros os homens que possuem barba.
+Possuem agilidade surpreendente e, em geral, são magros. Seu tom de pele vai do moreno ao negro.
+Cerca de 50% da população possui a capacidade de gerar fogo em momentos de raiva, por volta de 15% consegue controlá-la.
+Os partos de crianças costuma acontecer em locais abertos, pelo fato de quase sempre acabar em um incêndio.
+Sua dieta constitui-se predominantemente de carne, e suas plantações, em sua maioria, servem para alimentação de seus animais.
+
+=== Descrição psicológica: ===
+
+    Em geral possuem um temperamento forte e são vingativos. Tem sentimentos muito aflorados, sejam de amor ou raiva.
+Tavernas e outros locais públicos costumam ser feitos de metal, devido à probabilidade de "esquentadinhos".
+Apesar do quase caos em que vivem, são leais e defendem seus protegidos até a morte. Possuem um forte senso de justiça e defendem a idéia de olho por olho, dente por dente.
+
+=== Descrição religiosa: ===
+
+    Não veneram nenhuma divindade específica, além de alguns vulcões ou heróis . O mais próximo que têm de religião são as velhas lendas de seu passado remoto na Terra.
+
+=== Governo: ===
+
+    Não possuem um sistema de governo muito definido e não possuem uma moeda corrente, e a maioria do comércio é feito a partir de escambo. A "paz" é mantida pelo senso de justiça presente em quase todos da raça. Os que não possuem não duram muito tempo.
+
+=== Planeta: ===
+
+    Seu planeta é quente e menor que a terra (cerca de metade do tamanho). Apesar disso sua população passa de 5 bilhões, pelo fato de seu planeta não possuir oceanos. Crivado de vulcões e com temperaturas superiores a 50 graus celsius, seu ambiente seria inabitável a humanos comuns.
+Seu solo é fértil, apesar da agricultura não ser fácil. São poucos os vegetais que conseguem aguentar altas temperaturas com pouca água. A maioria de suas plantações são no hemisfério sul, onde as temperaturas são um pouco mais baixas (40 graus em média).
+
+
+
+== Raça: Magnetlings == (Nome provisório)
+
+=== Descrição física: ===
+
+    Não possuem pêlo algum e são de baixa estatura (média de 1,50m em adultos). São magros e sua pele tem um tom de pele do branco ao acinzentado (metálico). As mulheres tem pouca diferença em relação aos homens, uma vez que ambos são calvos, magros, baixos e seus rostos um tanto inexpressivos.
+A população em sua quase totalidade tem habilidades envolvendo eletricidade e pulsos eletromagnéticos. Suas habilidades vão de simples choques com voltagens variadas a poderosos PEMs capazas de derrubar um avião humano a 50 km de distância.
+Alimentam-se com pouca quantidade de comida e costumam receber cargas elétricas naturalmente geradas em seu planeta, que ajudam na manutenção de sua vida. Boatos dizem que já existem alguns capazes de manter-se somente com eletricidade.
+
+=== Descrição psicológica: ===
+
+    Esquemáticos,inteligentes e contidos, vivem numa sociedade praticamente em total harmonia. Sua sociedade é bem formada e seus métodos de punição são frios. Por não possuirem fortes valores sentimentais, sua vida torna-se quase sistêmica. Costumam viver sozinhos.
+Seus relacionamentos são puramente destinados à manutenção da espécie e,por este motivo, o número populacional está em declínio, uma vez que leva determinado tempo até que os jovens tornem-se conscientes de seu papel na prosperação da espécie.
+Há suas exceções. Existem determinados grupos que, do ponto de vista humano, pareceriam somente frios. E isso é caloroso demais para o ponto de vista da raça.
+
+=== Religião: ===
+
+    Ateus convictos.
+
+=== Governo: ===
+
+    Possuem um sistema de governo bem organizado. Organizado até demais, uma vez que são raras as infrações às leis definidas. 
+
+=== Planeta: ===
+
+    Seu planeta é ameno,em média 15 graus celsius. Tempestades são comuns, especialmente as elétricas. O planeta possui características eletromagnéticas únicas e instáveis , o que tornaria difícil o desenvolvimento de equipamentos eletrônicos. Porém sua genialidade tornou possível o desenvolvimentos dos "X", aparelhos que conseguem tornar uma área livre de força eletromagnética,o que permite que as grandes metrópoles façam uso de máquinas.Porém, com isso, os habitantes tambem perdem suas habilidades.
+
+
+
+== Raça: Sylvatis ==
+
+=== Descrição Física: ===
+
+    Com altura entre 1 e 1.2 metros, corpos finos e magros, possuem penas brancas que se estendem em seus braços, pernas e cabeça, dois pares de Asas com largura de até 3 vezes sua altura.Conseguem voar a mais de 1000km/h chegando perto da velocidade do som.Sylvatis podem ser encontrados em diversos planetas com os mesmos aspectos, sua genética impossibilitou uma grande evolução mas possibilitou sua sobrevivência em gigantes gasosos. O primeiro planeta com Sylvatis conhecido pelo homem foi batizado de Sylph, que era o codenome do projeto que deu origem aos Sylvatis.
+
+=== Descrição Psicológica: ===
+
+    Tem uma filosofia de vida simples, caçam quando sentem fome, dormem quando sentem sono, voam quando e sempre. Todo Sylvatis poucos dias após seu nascimento aprende a voar e a partir daí nunca mais volta ao chão. Sua ligação com o ar é tamanha que se mantém em vôo mesmo quando estão dormindo. Sylvatis são extremamente curiosos, puros e facilmente influenciados, o que os fez perderem grande parte de sua cultura nas primeiras interações com os Humanos.
+
+=== Religião: ===
+
+    Aderem a religião das tribos que se unem. Antigas lendas apontam uma religião própria baseada nos 'ventos da mudança' e 'aqueles que virão de cima', porém tais mitos se perderam com o tempo e são conhecidos somente por raros anciões de tribos ainda não visitadas pelo Homem.
+
+=== Governo: ===
+
+    Possui uma divisão quase tribal onde não há líderes de qualquer forma. Não conhecem regras ou leis e detém um pequeno conceito de certo e errado e respeito aos mais sábios.
+
+=== Planeta: ===
+
+    Com uma atmosfera gigante se comparada a parte sólida, possuí constantes tempestades de vento e seu núcleo contém uma rede complexa de cavernas onde os Sylvatis vão para procriar. Sua temperatura varia levemente entre os 30 e 40 graus, porém o forte vento pode fazer a sensação de temperatura cair para menos de vinte graus.
+
+
+
+== Raça: Mirages ==
+
+=== Descrição Física: ===
+
+    Sua pele é vermelha, seus cabelos cor prata avermelhada e seus olhos de cor dourada e orelhas em formato semelhantes a uma barbatana de peixe. Seus ombros são largos e de suas costas brotam vestígios de asas que no passado possuíram. Seus braços e pernas são grossos e fortes, cobertos de escamas vermelhas. Altura 1.9~2.2m. Sendo muitas vezes considerado um homem-dragão,por sua inteligência, super-resistência a temperaturas altas, seus filhos nascem em ovos e poderem viver por centenas de anos.
+
+=== Descrição Psicológica: ===
+
+    Tem um temperamento tolerante as outras raças e um forte senso de nobreza. Sentem que é seu dever defender aqueles mais fracos e forjar um mundo justo com suas próprias garras. Os poucos laços de amizade de cada Mirage são como um vinculo com a vida, formados a partir de um pacto de sangue, um Mirage consegue saber se seus amigos estão bem mesmo a grandes distâncias e não pensará duas vezes em correr para seu auxilio caso necessário.
+
+=== Religião: ===
+
+    Mirages conhecem suas origens e o mais próximo de uma religião que tem é uma lista de 10 regras criadas pelos primeiros Mirages a se estabelecerem no planeta.
+
+1)Obedeça aos seus pais e criadores.
+2)Respeite aos seus irmãos.
+3)Preserve os conhecimentos antigos.
+4)Elimine seus inimigos.
+5)Proteja seus aliados.
+6)Não envolva inocentes.
+7)Cumpra suas missões(tarefas).
+8)Ajude os que precisam.
+9)Seja justo e honesto
+10)Não repita seus erros.
+
+=== Governo: ===
+
+    São organizados vários fórums em pontos estratégicos da cidade para discutir assuntos de repercussão de cada área, havendo como conceito hierárquico somente a idade entre os participantes. Assuntos de maior repercussão são discutidos em reuniões que acontecem mensalmente, onde um representante de cada fórum é escolhido para participar.
+
+=== Planeta: ===
+
+    Com mais de dez vezes o tamanho da terra, a temperatura média de 107 °C, poucas fontes de água e alimento, possui enormes cadeias de montanhas e vulcões em atividade e pequenos vales onde a maioria das cidades são construídas. As cidades possuem prédios subterrâneos, são cobertas por um escudo de metais semelhantes a cristal para proteger contra radiação e são ligadas por trilhos onde enormes trens elétricos circulam, isso tudo com tecnologia extremamente similar a de seus criadores.  
+
+
