@@ -27,8 +27,8 @@ Cada ficha de Raça deve ter sua descrição física, psicológica, religiosa, g
 
     Entre as religiões existentes em sua população, duas predominam, Seita de Akarl e Vigilantes de Orakres.
 
-   *Seita de Akarl:* religião que impõe a crença de um reino divino onde somente os mais honrosos guerreiros se juntam após a morte.
-   *Vigilantes de Orakres:* religião que impõe a crença de todos virem da terra e voltarem para terra em um ciclo sem fim.
+   *_Seita de Akarl:_* religião que impõe a crença de um reino divino onde somente os mais honrosos guerreiros se juntam após a morte.
+   *_Vigilantes de Orakres:_* religião que impõe a crença de todos virem da terra e voltarem para terra em um ciclo sem fim.
 
 === Governo: ===
 
@@ -39,7 +39,8 @@ Cada ficha de Raça deve ter sua descrição física, psicológica, religiosa, g
     Muito similar com a terra, possue uma gravidade duas vezes maior, tem 37% de sua superfície coberta de água. Prevalece terrenos de planícies e florestas baixas. Tem um grau elevado de umidade e temperatura, que cria um ciclo da água extremamente rápido, fazendo haver mais dias de chuva que de sol. Sua flora consiste principalmente de plantas pequenas e árvores baixas e sua fauna possui uma imensa variedade de herbívoros, de porte pequeno e médio e carnívoros de tamanhos colossais.
 
 
-== Raça: Flamekin == (nome provisório)
+== Raça: Flamekin == 
+(nome provisório)
 
 === Descrição Física: ===
 
@@ -70,7 +71,8 @@ Seu solo é fértil, apesar da agricultura não ser fácil. São poucos os veget
 
 
 
-== Raça: Magnetlings == (Nome provisório)
+== Raça: Magnetlings == 
+(Nome provisório)
 
 === Descrição física: ===
 
@@ -154,5 +156,3 @@ Há suas exceções. Existem determinados grupos que, do ponto de vista humano, 
 === Planeta: ===
 
     Com mais de dez vezes o tamanho da terra, a temperatura média de 107 °C, poucas fontes de água e alimento, possui enormes cadeias de montanhas e vulcões em atividade e pequenos vales onde a maioria das cidades são construídas. As cidades possuem prédios subterrâneos, são cobertas por um escudo de metais semelhantes a cristal para proteger contra radiação e são ligadas por trilhos onde enormes trens elétricos circulam, isso tudo com tecnologia extremamente similar a de seus criadores.  
-
-
