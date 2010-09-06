@@ -27,8 +27,8 @@ Cada ficha de Raça deve ter sua descrição física, psicológica, religiosa, g
 
     Entre as religiões existentes em sua população, duas predominam, Seita de Akarl e Vigilantes de Orakres.
 
-   *_Seita de Akarl:_* religião que impõe a crença de um reino divino onde somente os mais honrosos guerreiros se juntam após a morte.
-   *_Vigilantes de Orakres:_* religião que impõe a crença de todos virem da terra e voltarem para terra em um ciclo sem fim.
+   *  Seita de Akarl: religião que impõe a crença de um reino divino onde somente os mais honrosos guerreiros se juntam após a morte.
+   *  Vigilantes de Orakres: religião que impõe a crença de todos virem da terra e voltarem para terra em um ciclo sem fim.
 
 === Governo: ===
 
