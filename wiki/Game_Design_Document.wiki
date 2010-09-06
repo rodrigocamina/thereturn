@@ -45,21 +45,15 @@ Cada ficha de Raça deve ter sua descrição física, psicológica, religiosa, g
 
 === Descrição Física: ===
 
-  São raros os que tornam-se anciãos, dada a vida frenética que levam. Tem altura mediana (1,70m altura média de um adulto), Calvos em sua grande maioria, devido ao forte calor de seu planeta. As mulheres possuem cabelos curtos e são raros os homens que possuem barba.
-Possuem agilidade surpreendente e, em geral, são magros. Seu tom de pele vai do moreno ao negro.
-Cerca de 50% da população possui a capacidade de gerar fogo em momentos de raiva, por volta de 15% consegue controlá-la.
-Os partos de crianças costuma acontecer em locais abertos, pelo fato de quase sempre acabar em um incêndio.
-Sua dieta constitui-se predominantemente de carne, e suas plantações, em sua maioria, servem para alimentação de seus animais.
+  São raros os que tornam-se anciãos, dada a vida frenética que levam. Tem altura mediana (1,70m altura média de um adulto), Calvos em sua grande maioria, devido ao forte calor de seu planeta. As mulheres possuem cabelos curtos e são raros os homens que possuem barba. Possuem agilidade surpreendente e, em geral, são magros. Seu tom de pele vai do moreno ao negro. Cerca de 50% da população possui a capacidade de gerar fogo em momentos de raiva, por volta de 15% consegue controlá-la. Os partos de crianças costuma acontecer em locais abertos, pelo fato de quase sempre acabar em um incêndio. Sua dieta constitui-se predominantemente de carne, e suas plantações, em sua maioria, servem para alimentação de seus animais.
 
 === Descrição psicológica: ===
 
-  Em geral possuem um temperamento forte e são vingativos. Tem sentimentos muito aflorados, sejam de amor ou raiva.
-Tavernas e outros locais públicos costumam ser feitos de metal, devido à probabilidade de "esquentadinhos".
-Apesar do quase caos em que vivem, são leais e defendem seus protegidos até a morte. Possuem um forte senso de justiça e defendem a idéia de olho por olho, dente por dente.
+  Em geral possuem um temperamento forte e são vingativos. Tem sentimentos muito aflorados, sejam de amor ou raiva. Tavernas e outros locais públicos costumam ser feitos de metal, devido à probabilidade de "esquentadinhos". Apesar do quase caos em que vivem, são leais e defendem seus protegidos até a morte. Possuem um forte senso de justiça e defendem a idéia de olho por olho, dente por dente.
 
 === Descrição religiosa: ===
 
-  Não veneram nenhuma divindade específica, além de alguns vulcões ou heróis . O mais próximo que têm de religião são as velhas lendas de seu passado remoto na Terra.
+  Não veneram nenhuma divindade específica, além de alguns vulcões ou heróis. O mais próximo que têm de religião são as velhas lendas de seu passado remoto na Terra.
 
 === Governo: ===
 
@@ -67,8 +61,7 @@ Apesar do quase caos em que vivem, são leais e defendem seus protegidos até a 
 
 === Planeta: ===
 
-  Seu planeta é quente e menor que a terra (cerca de metade do tamanho). Apesar disso sua população passa de 5 bilhões, pelo fato de seu planeta não possuir oceanos. Crivado de vulcões e com temperaturas superiores a 50 graus celsius, seu ambiente seria inabitável a humanos comuns.
-Seu solo é fértil, apesar da agricultura não ser fácil. São poucos os vegetais que conseguem aguentar altas temperaturas com pouca água. A maioria de suas plantações são no hemisfério sul, onde as temperaturas são um pouco mais baixas (40 graus em média).
+  Seu planeta é quente e menor que a terra (cerca de metade do tamanho). Apesar disso sua população passa de 5 bilhões, pelo fato de seu planeta não possuir oceanos. Crivado de vulcões e com temperaturas superiores a 50 graus celsius, seu ambiente seria inabitável a humanos comuns. Seu solo é fértil, apesar da agricultura não ser fácil. São poucos os vegetais que conseguem aguentar altas temperaturas com pouca água. A maioria de suas plantações são no hemisfério sul, onde as temperaturas são um pouco mais baixas (40 graus em média).
 
 ----
 
@@ -77,15 +70,13 @@ Seu solo é fértil, apesar da agricultura não ser fácil. São poucos os veget
 
 === Descrição física: ===
 
-  Não possuem pêlo algum e são de baixa estatura (média de 1,50m em adultos). São magros e sua pele tem um tom de pele do branco ao acinzentado (metálico). As mulheres tem pouca diferença em relação aos homens, uma vez que ambos são calvos, magros, baixos e seus rostos um tanto inexpressivos.
-A população em sua quase totalidade tem habilidades envolvendo eletricidade e pulsos eletromagnéticos. Suas habilidades vão de simples choques com voltagens variadas a poderosos PEMs capazas de derrubar um avião humano a 50 km de distância.
-Alimentam-se com pouca quantidade de comida e costumam receber cargas elétricas naturalmente geradas em seu planeta, que ajudam na manutenção de sua vida. Boatos dizem que já existem alguns capazes de manter-se somente com eletricidade.
+  Não possuem pêlo algum e são de baixa estatura (média de 1,50m em adultos). São magros e sua pele tem um tom de pele do branco ao acinzentado (metálico). As mulheres tem pouca diferença em relação aos homens, uma vez que ambos são calvos, magros, baixos e seus rostos um tanto inexpressivos. 
+  A população em sua quase totalidade tem habilidades envolvendo eletricidade e pulsos eletromagnéticos. Suas habilidades vão de simples choques com voltagens variadas a poderosos PEMs capazas de derrubar um avião humano a 50 km de distância. Alimentam-se com pouca quantidade de comida e costumam receber cargas elétricas naturalmente geradas em seu planeta, que ajudam na manutenção de sua vida. Boatos dizem que já existem alguns capazes de manter-se somente com eletricidade.
 
 === Descrição psicológica: ===
 
-  Esquemáticos,inteligentes e contidos, vivem numa sociedade praticamente em total harmonia. Sua sociedade é bem formada e seus métodos de punição são frios. Por não possuirem fortes valores sentimentais, sua vida torna-se quase sistêmica. Costumam viver sozinhos.
-Seus relacionamentos são puramente destinados à manutenção da espécie e,por este motivo, o número populacional está em declínio, uma vez que leva determinado tempo até que os jovens tornem-se conscientes de seu papel na prosperação da espécie.
-Há suas exceções. Existem determinados grupos que, do ponto de vista humano, pareceriam somente frios. E isso é caloroso demais para o ponto de vista da raça.
+  Esquemáticos,inteligentes e contidos, vivem numa sociedade praticamente em total harmonia. Sua sociedade é bem formada e seus métodos de punição são frios. Por não possuirem fortes valores sentimentais, sua vida torna-se quase sistêmica. Costumam viver sozinhos. 
+  Seus relacionamentos são puramente destinados à manutenção da espécie e,por este motivo, o número populacional está em declínio, uma vez que leva determinado tempo até que os jovens tornem-se conscientes de seu papel na prosperação da espécie. Há suas exceções. Existem determinados grupos que, do ponto de vista humano, pareceriam somente frios. E isso é caloroso demais para o ponto de vista da raça.
 
 === Religião: ===
 
