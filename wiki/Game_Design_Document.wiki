@@ -38,6 +38,7 @@ Cada ficha de Raça deve ter sua descrição física, psicológica, religiosa, g
 
     Muito similar com a terra, possue uma gravidade duas vezes maior, tem 37% de sua superfície coberta de água. Prevalece terrenos de planícies e florestas baixas. Tem um grau elevado de umidade e temperatura, que cria um ciclo da água extremamente rápido, fazendo haver mais dias de chuva que de sol. Sua flora consiste principalmente de plantas pequenas e árvores baixas e sua fauna possui uma imensa variedade de herbívoros, de porte pequeno e médio e carnívoros de tamanhos colossais.
 
+----
 
 == Raça: Flamekin == 
 (nome provisório)
@@ -69,7 +70,7 @@ Apesar do quase caos em que vivem, são leais e defendem seus protegidos até a 
     Seu planeta é quente e menor que a terra (cerca de metade do tamanho). Apesar disso sua população passa de 5 bilhões, pelo fato de seu planeta não possuir oceanos. Crivado de vulcões e com temperaturas superiores a 50 graus celsius, seu ambiente seria inabitável a humanos comuns.
 Seu solo é fértil, apesar da agricultura não ser fácil. São poucos os vegetais que conseguem aguentar altas temperaturas com pouca água. A maioria de suas plantações são no hemisfério sul, onde as temperaturas são um pouco mais baixas (40 graus em média).
 
-
+----
 
 == Raça: Magnetlings == 
 (Nome provisório)
@@ -98,7 +99,7 @@ Há suas exceções. Existem determinados grupos que, do ponto de vista humano, 
 
     Seu planeta é ameno,em média 15 graus celsius. Tempestades são comuns, especialmente as elétricas. O planeta possui características eletromagnéticas únicas e instáveis , o que tornaria difícil o desenvolvimento de equipamentos eletrônicos. Porém sua genialidade tornou possível o desenvolvimentos dos "X", aparelhos que conseguem tornar uma área livre de força eletromagnética,o que permite que as grandes metrópoles façam uso de máquinas.Porém, com isso, os habitantes tambem perdem suas habilidades.
 
-
+----
 
 == Raça: Sylvatis ==
 
@@ -122,7 +123,7 @@ Há suas exceções. Existem determinados grupos que, do ponto de vista humano, 
 
     Com uma atmosfera gigante se comparada a parte sólida, possuí constantes tempestades de vento e seu núcleo contém uma rede complexa de cavernas onde os Sylvatis vão para procriar. Sua temperatura varia levemente entre os 30 e 40 graus, porém o forte vento pode fazer a sensação de temperatura cair para menos de vinte graus.
 
-
+----
 
 == Raça: Mirages ==
 
