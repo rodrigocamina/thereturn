@@ -130,16 +130,16 @@ Cada ficha de Raça deve ter sua descrição física, psicológica, religiosa, g
 
   Mirages conhecem suas origens e o mais próximo de uma religião que tem é uma lista de 10 regras criadas pelos primeiros Mirages a se estabelecerem no planeta.
 
-1)Obedeça aos seus pais e criadores.
-2)Respeite aos seus irmãos.
-3)Preserve os conhecimentos antigos.
-4)Elimine seus inimigos.
-5)Proteja seus aliados.
-6)Não envolva inocentes.
-7)Cumpra suas missões(tarefas).
-8)Ajude os que precisam.
-9)Seja justo e honesto
-10)Não repita seus erros.
+  *  Obedeça aos seus pais e criadores.
+  *  Respeite aos seus irmãos.
+  *  Preserve os conhecimentos antigos.
+  *  Elimine seus inimigos.
+  *  Proteja seus aliados.
+  *  Não envolva inocentes.
+  *  Cumpra suas missões(tarefas).
+  *  Ajude os que precisam.
+  *  Seja justo e honesto
+  *  Não repita seus erros.
 
 === Governo: ===
 
