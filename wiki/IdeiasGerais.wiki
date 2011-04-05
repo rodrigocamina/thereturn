@@ -1,38 +1,38 @@
 #summary Página de idéias(Não relacionado ao projeto).
 
-=== Casual ===
+==== Casual ====
 
-Web Curling
-Mech Chess
-Daimiyo Defenders
-8 Days Before Sea Lion
+  * Web Curling
+  * Mech Chess
+  * Daimiyo Defenders
+  * 8 Days Before Sea Lion
 
-=== Ação ===
+==== Ação ====
 
-Senta a Pua
-A Cobra Fumou
-Fire Fighters
-Epsilon Sagittarii
-Steel Champions Project
+  * Senta a Pua
+  * A Cobra Fumou
+  * Fire Fighters
+  * Epsilon Sagittarii
+  * Steel Champions Project
 
-=== Aventura ===
+==== Aventura ====
 
-A Arca
-The Return
+  * A Arca
+  * The Return
 
-=== Multiplayer ===
+==== Multiplayer ====
 
-Race Over IP
-Card Wars
-Tagged
+  * Race Over IP
+  * Card Wars
+  * Tagged
 
-=== Simulador ===
+==== Simulador ====
 
-Air Tattoo
+  * Air Tattoo
 
-=== Sistemas ===
+==== Sistemas ====
 
-Jarvis
-Floating Mockup (EFM)
+  * Jarvis
+  * Floating Mockup (EFM)
 
 ----
