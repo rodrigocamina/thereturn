@@ -1,36 +1,70 @@
 #summary Página de idéias(Não relacionado ao projeto).
 
-==== Casual ====
+=== Casual ===
 
-  * Web Curling
-  * Mech Chess
+  * Web Curling?
+
+  * Mech Chess?
+
   * Daimiyo Defenders
+
+    Tower defense com tema baseado no Japão feudal.
+
   * 8 Days Before Sea Lion
 
-==== Ação ====
+    Estilo Missile Command mas com tema baseado na WWII.
+
+=== Ação ===
 
   * Senta a Pua
+
+    FPS com tema baseado no 1GAvCa e sua participação na WWII.
+
   * A Cobra Fumou
-  * Fire Fighters
+
+    FPS com tema baseado na FEB e sua participação na WWII.
+
+  * Fire Fighters?
+
   * Epsilon Sagittarii
+
+    Shooter com naves em 3D.
+
   * Steel Champions Project
 
-==== Aventura ====
+    RTS / Action de VRT´s.
+
+=== Aventura ===
 
   * A Arca
+
+    Action / RPG com temática espacial.
+
   * The Return
 
-==== Multiplayer ====
+    RTS / Card com temática espacial.
+
+=== Multiplayer ===
 
   * Race Over IP
+
+    Board / Card com temática hacker.
+
   * Card Wars
+
+    Board / Card com temática militar.
+
   * Tagged
 
-==== Simulador ====
+    FPS com temática de espionagem.
+
+=== Simulador ===
 
   * Air Tattoo
 
-==== Sistemas ====
+    Simulador de acrobacia aérea e FR
+
+=== Sistemas ===
 
   * Jarvis
   * Floating Mockup (EFM)
