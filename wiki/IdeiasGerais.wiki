@@ -2,67 +2,67 @@
 
 === Casual ===
 
-  * Web Curling?
+==== Web Curling ====
 
-  * Mech Chess?
+==== Mech Chess ====
 
-  * Daimiyo Defenders
+==== Daimiyo Defenders ====
 
     Tower defense com tema baseado no Japão feudal.
 
-  * 8 Days Before Sea Lion
+==== 8 Days Before Sea Lion ====
 
     Estilo Missile Command mas com tema baseado na WWII.
 
 === Ação ===
 
-  * Senta a Pua
+==== Senta a Pua ====
 
     FPS com tema baseado no 1GAvCa e sua participação na WWII.
 
-  * A Cobra Fumou
+==== A Cobra Fumou ====
 
     FPS com tema baseado na FEB e sua participação na WWII.
 
-  * Fire Fighters
+==== Fire Fighters ====
 
     Jogo com temática de bombeiros.
 
-  * Epsilon Sagittarii
+==== Epsilon Sagittarii ====
 
     Shooter com naves em 3D.
 
-  * Steel Champions Project
+==== Steel Champions Project ====
 
     RTS / Action de VRT´s.
 
 === Aventura ===
 
-  * A Arca
+==== A Arca ====
 
     Action / RPG com temática espacial.
 
-  * The Return
+==== The Return ====
 
     RTS / Card com temática espacial.
 
 === Multiplayer ===
 
-  * Race Over IP
+==== Race Over IP ====
 
     Board / Card com temática hacker.
 
-  * Card Wars
+==== Card Wars ====
 
     Board / Card com temática militar.
 
-  * Tagged
+==== Tagged ====
 
     FPS com temática de espionagem.
 
 === Simulador ===
 
-  * Air Tattoo
+==== Air Tattoo ====
 
     Simulador de acrobacia aérea e FR
 
