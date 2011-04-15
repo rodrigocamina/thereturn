@@ -24,7 +24,9 @@
 
     FPS com tema baseado na FEB e sua participação na WWII.
 
-  * Fire Fighters?
+  * Fire Fighters
+
+    Jogo com temática de bombeiros.
 
   * Epsilon Sagittarii
 
